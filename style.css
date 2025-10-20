@@ -1,0 +1,39 @@
+body{
+    background-color: white;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+table{
+    width: 100%;
+}
+h1{
+    background-color: rgb(219, 50, 50);
+    color: white;
+}
+span{
+    font-size: medium;
+}
+p{
+    text-align: right;
+}
+.p1{
+    text-align: left;
+}
+td,th{
+    background-color: white;
+}
+.th1{
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    font-weight: bold;
+    height: 20%;
+    font-size: 100%;
+
+}
+.td1{
+    background-color: white;
+}
+.titre{
+    background-color: rgb(219, 50, 50);
+    color: white;
+}
